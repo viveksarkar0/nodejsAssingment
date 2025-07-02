@@ -1,0 +1,58 @@
+[
+  {
+    "id": "43b8b1f5-988b-462e-85c4-f96b1a893671",
+    "title": "Test Book",
+    "author": "Test Author",
+    "genre": "Fiction",
+    "publishedYear": 2024,
+    "userId": "13257ec0-8c3f-4919-8b9d-ac3379723936"
+  },
+  {
+    "id": "d6e592e7-0215-43d6-a6b8-ace3bb580c15",
+    "title": "Test Book",
+    "author": "Test Author",
+    "genre": "Fiction",
+    "publishedYear": 2024,
+    "userId": "13257ec0-8c3f-4919-8b9d-ac3379723936"
+  },
+  {
+    "id": "e1cad55b-9989-4afc-8cc2-fbdd62d87995",
+    "title": "Test Book",
+    "author": "Test Author",
+    "genre": "Fiction",
+    "publishedYear": 2024,
+    "userId": "13257ec0-8c3f-4919-8b9d-ac3379723936"
+  },
+  {
+    "id": "b7e4e11b-9235-4086-9a79-6d9283282569",
+    "title": "Test Book",
+    "author": "Test Author",
+    "genre": "Mystery",
+    "publishedYear": 2024,
+    "userId": "13257ec0-8c3f-4919-8b9d-ac3379723936"
+  },
+  {
+    "id": "7b3b072c-9bb8-4907-9f03-117f27c48541",
+    "title": "Updated Title",
+    "author": "Updated Author",
+    "genre": "Updated Genre",
+    "publishedYear": 2025,
+    "userId": "13257ec0-8c3f-4919-8b9d-ac3379723936"
+  },
+  {
+    "id": "bc275b3d-e049-46c9-802a-035e47de2fa5",
+    "title": "Test Book",
+    "author": "Test Author",
+    "genre": "Fiction",
+    "publishedYear": 2024,
+    "userId": "13257ec0-8c3f-4919-8b9d-ac3379723936"
+  },
+  {
+    "id": "bcf4dc29-1ecc-4746-a698-32df3b5311cf",
+    "title": "Test Book",
+    "author": "Test Author",
+    "genre": "Fiction",
+    "publishedYear": 2024,
+    "userId": "13257ec0-8c3f-4919-8b9d-ac3379723936"
+  }
+]
